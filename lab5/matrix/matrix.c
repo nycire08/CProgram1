@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <time.h>
 #include <pthread.h>
-// Credit to Yasmin Senior
 
 #define MAX 4
 #define UPPER 10
