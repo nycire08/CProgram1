@@ -7,7 +7,7 @@
 #include "util.h"
 
 
-// Credit to Yasmin Senior
+
 void findWaitingTimeRR(ProcessType plist[], int n,int quantum) 
 { 
   /*
