@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <unistd.h>
-// Credit to Yasmin Senior for helping my understanding 
+
 #define SIZE 100
 
 int array[SIZE];
